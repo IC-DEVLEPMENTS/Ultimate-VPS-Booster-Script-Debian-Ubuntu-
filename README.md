@@ -77,6 +77,7 @@ Clone the Repository:**
 ```git clone https://github.com/IC-DEVLEPMENTS/Ultimate-VPS-Booster-Script-Debian-Ubuntu-.git```
 
 ## Make the Script Executable:
+``cd Ultimate-VPS-Booster-Script-Debian-Ubuntu-``
 
 ```chmod +x ULTIMATE-VPS-BOOSTER.sh```
 ## Run the Script: To run the script, execute it as root:
