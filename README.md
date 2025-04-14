@@ -9,7 +9,7 @@ This script requires root (administrator) privileges to execute.**
 **Steps to Install:
 Clone the Repository:**
 
-```git clone https://github.com//ultimate-vps-booster.git```
+```git clone https://github.com/IC-DEVLEPMENTS/Ultimate-VPS-Booster-Script-Debian-Ubuntu-.git```
 
 ```cd ultimate-vps-booster```
 
